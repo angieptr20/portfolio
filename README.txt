@@ -1,33 +1,27 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌟 Angie Smith's Portfolio
 
+Welcome to my personal portfolio! This space showcases my technical skills, projects, and experience as a developer. 🚀 
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+## 🔗 Live Demo
+Check out my portfolio here: https://craftsbyangie.netlify.app/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🛠 Technologies Used
+My portfolio highlights my expertise in the following technologies:
+- **Frontend:** HTML5, CSS3, JavaScript, React, TypeScript
+- **Backend:** Node.js, Express.js
+- **Styling:** Vanilla CSS, Bootstrap, Tailwind CSS
+- **Version Control:** Git & GitHub
 
-(* = Not included)
+## 🚀 Getting Started
+If you'd like to explore my projects locally, follow these steps:
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/angieptr20/portfolio.git
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+2. Navigate to the project folder:
+   cd portfolio
 
-AJ
-aj@lkn.io | @ajlkn
+3. Open the index.html file in your browser
+  open index.html  # Mac (use 'open' command)
+  start index.html # Windows (use 'start' command)
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)

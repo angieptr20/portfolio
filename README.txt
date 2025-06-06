@@ -24,4 +24,3 @@ If you'd like to explore my projects locally, follow these steps:
 3. Open the index.html file in your browser
   open index.html  # Mac (use 'open' command)
   start index.html # Windows (use 'start' command)
-
